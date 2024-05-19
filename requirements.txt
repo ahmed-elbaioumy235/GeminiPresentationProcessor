@@ -1,0 +1,4 @@
+fastapi
+python-pptx
+langchain
+langchain-google-genai
